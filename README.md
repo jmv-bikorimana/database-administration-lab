@@ -2,34 +2,21 @@
 
 ## Overview
 
-This repository demonstrates practical database administration activities including PostgreSQL administration, backup and recovery, database monitoring, SQL administration, performance tuning, migration support, and operational procedures.
+This repository contains practical database administration documentation, SQL scripts, backup and recovery procedures, monitoring examples, and migration support material.
+
+The content is designed to demonstrate database administration knowledge relevant to enterprise systems such as financial management platforms, transactional applications, and institutional service delivery systems.
 
 ## Scope
 
-- PostgreSQL Administration
-- Database Backup and Recovery
-- SQL Administration
-- Database Monitoring
-- Performance Tuning
-- Migration Support
-- Operational Documentation
+- PostgreSQL administration
+- Database backup and recovery
+- SQL administration
+- Database monitoring
+- Query performance review
+- Migration support
+- Data integrity checks
+- Operational documentation
 
-## Technologies
+## Confidentiality Notice
 
-- PostgreSQL
-- SQL
-- Linux
-- Windows Server
-- PowerShell
-- Bash
-
-## Repository Structure
-
-- PostgreSQL
-- SQL
-- Migration
-- Documentation
-
-## Author
-
-Jean Marie Vianney Bikorimana
+All examples in this repository use generic names and sample structures for demonstration purposes only. They do not contain production data, internal database schemas, passwords, IP addresses, or confidential institutional information.
